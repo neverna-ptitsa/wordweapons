@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Word Weapons</title>
+    <link>http://wordweapons.blog/posts/</link>
+    <description>Recent content in Posts on Word Weapons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Dec 2017 21:47:06 -0500</lastBuildDate>
+    
+	<atom:link href="http://wordweapons.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enthymeme</title>
+      <link>http://wordweapons.blog/posts/enthymeme/</link>
+      <pubDate>Sat, 23 Dec 2017 21:47:06 -0500</pubDate>
+      
+      <guid>http://wordweapons.blog/posts/enthymeme/</guid>
+      <description>My inaugural post is on a delightful word: Enthymeme.
+Today someone said to me, &amp;ldquo;He was raised in a Morman cult. Need I say more?&amp;rdquo; The person with whom I was speaking had not outlined what they were thinking, and I had no idea in what sense she meant her question. The answer in the particular situation was an obvious &amp;ldquo;yes.&amp;rdquo;
+The expectation on their part (I expect) was that I would say &amp;ldquo;oh yes, of course.</description>
+    </item>
+    
+  </channel>
+</rss>
