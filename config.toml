@@ -1,0 +1,11 @@
+baseURL = "http://wordweapons.blog/"
+languageCode = "en-us"
+title = "Word Weapons"
+theme = "hugo_theme_pickles"
+[params]
+  subtitle = "Sharpening discourse one word at a time"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
